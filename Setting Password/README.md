@@ -63,5 +63,4 @@
 
 
 ### References:
-1. [Redis download page](https://redis.io/download)
-2. [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services)
+1. [Redis documentation](https://redis.io/documentation)
